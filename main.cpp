@@ -2,8 +2,7 @@
 
 main( )
 {
-    printf("hello, world\n"); // develop
+    printf("hello this world\n");
     int a = 1;
-    int b = a +1; // develop
-    int c = a+b;
+    int b = a +1;
 }
